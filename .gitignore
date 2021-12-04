@@ -1,1 +1,15 @@
 confidencial.txt
+
+#files
+confidencial.txt
+carpeta1/carpeta2/confidencial.txt
+
+#folders
+carpeta/
+carpeta1/carpeta2/carpeta3/
+
+#patterns
+*.css
+hola-*
+ignorame.*
+hola-[0-9].*
